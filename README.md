@@ -1,4 +1,4 @@
-# **[readcounts2FPKM_and_TPM](https://github.com/thecgs/readcounts2FPKM_and_TPM)**
+# **readcounts2FPKM_and_TPM**
 
 **This script normalizes readcounts into FPKM and TPM **
 
