@@ -1,6 +1,6 @@
 # **readcounts2FPKM_and_TPM**
 
-**This script normalizes readcounts into FPKM and TPM **
+**This script normalizes readcounts into FPKM and TPM.**
 
 **Author:** guisen chen  |  **Email:** <thecgs001@foxmail.com>
 
